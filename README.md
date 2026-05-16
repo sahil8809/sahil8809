@@ -1,5 +1,19 @@
-# 💫 About Me:
-🎓 Python Developer, Data Visualization Learner & AIML Learner<br>📚 Currently learning Python, NumPy, Pandas, Matplotlib, and Seaborn<br>💻 Interested in Data Analysis, Visualization, and AI/ML<br>☕ I can spend hours fixing a small bug and still enjoy coding.<br>📊 I enjoy turning boring data into colorful charts and graphs.<br>🚀 Learning something new in coding every day keeps me motivated.
+# 💫 Hello World, <***I'm Sahil***>
+
+🎓 Python Developer, Data Visualization Learner & AI/ML Enthusiast
+
+📚 Currently learning:
+Python, NumPy, Pandas, Matplotlib & Seaborn
+
+💻 Interested in:
+Data Analysis, Visualization and Artificial Intelligence
+
+☕ I can spend hours fixing a small bug and still enjoy coding.
+
+📊 I enjoy turning boring data into colorful charts and graphs.
+
+🚀 Learning something new every day keeps me motivated.
+
 
 
 ## 🌐 Socials:
