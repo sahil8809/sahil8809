@@ -3,7 +3,7 @@
 🎓 Python Developer, Data Visualization Learner & AI/ML Enthusiast
 
 📚 Currently learning:
-ML models, Python, NumPy, Pandas, Matplotlib & Seaborn
+ML models (Logistic regression, Linear regression), Python, NumPy, Pandas, Matplotlib & Seaborn
 
 💻 Interested in:
 Data Analysis, Visualization and Artificial Intelligence
